@@ -1,0 +1,75 @@
+.part1{
+    border-style: dotted;
+   border-bottom: none;
+   border-top: none;
+   
+}
+
+
+img{
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 500px;
+   
+}
+
+.fullname{
+    margin-left: 70px;
+
+}
+
+u{
+    color: blue;
+}
+
+h5{
+    margin-top: 100px;
+}
+
+.workexp{
+    color: rgb(46, 147, 214);
+    margin-left: 70px;
+
+}
+
+.companytitel{
+    margin-left: 70px;
+    line-height: 3px;
+    font-size: 15px;
+}
+
+.pr1{
+    margin-left: 70px;
+    margin-top: 40px;
+    font-size: 12px;
+}
+.companytitel2{
+    margin-left: 70px;
+    line-height: 3px;
+    font-size: 15px;
+}
+
+.pr2{
+    margin-left: 70px;
+    margin-top: 40px;
+    font-size: 12px;
+}
+
+.other{
+        color: rgb(46, 147, 214);
+        margin-left: 70px;
+    
+    }
+
+    .pr3{
+        
+            margin-left: 70px;
+            margin-top: 40px;
+            font-size: 12px;
+        }
+
+.projectname{
+    margin-left: 70px;
+    line-height: 3px;
+    font-size: 15px;
+}
